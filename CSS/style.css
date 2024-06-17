@@ -31,6 +31,7 @@ a {
   font-family: "Poppins", sans-serif;
 }
 
+
 .container {
   max-width: 1180px;
 
@@ -431,4 +432,8 @@ a {
   background-color: #1A284E;
   padding: 30px 0px;
   color: white;
+}
+.footer-wrapper ul{
+  margin: 0px;
+  padding: 0px;
 }
